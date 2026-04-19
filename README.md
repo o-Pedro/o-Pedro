@@ -1,11 +1,11 @@
 <div align="center">
-  <img height="150" src="https://i.pinimg.com/736x/d9/7f/55/d97f55295174e5c2c52809ed62e87526.jpg"  />
+  <img height="150" src="https://i.pinimg.com/736x/1d/a3/ff/1da3ff2d3270d55b60f670463e7c15d5.jpg"  />
 </div>
 
 ###
 
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=o-Pedro.o-Pedro&left_color=gray"  />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=o-Pedro.o-Pedro&left_color=gray&left_text=%D8%A8%D9%8A%D8%AF%D8%B1%D9%88"  />
 </div>
 
 ###
@@ -14,38 +14,39 @@
 
 ###
 
-<h3 align="left">Informações</h3>
+<h3 align="center">Informações:</h3>
 
 ###
 
-<p align="left">- ʙʀ | ꜱᴘ<br>- ᴇᴛᴇᴄ | ᴅꜱ</p>
+<p align="center">- ʙʀ | ꜱᴘ<br>- ᴇᴛᴇᴄ | ᴅꜱ</p>
 
 ###
 
-<h3 align="left">Linguagens</h3>
+<h3 align="center">Estudando:</h3>
 
 ###
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=html" height="40" alt="html5 logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css logo"  />
+  <img src="https://skillicons.dev/icons?i=css" height="40" alt="css logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp logo"  />
+  <img src="https://skillicons.dev/icons?i=java" height="40" alt="java logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
+  <img src="https://skillicons.dev/icons?i=cs" height="40" alt="csharp logo"  />
 </div>
 
 ###
 
-<h3 align="left">Meu Status:</h3>
+<h2 align="center">Status:</h2>
 
 ###
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=o-Pedro&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=pt-br&hide_border=false&order=1" height="250" alt="stats graph"  />
+  <img src="https://streak-stats.demolab.com?user=o-Pedro&locale=pt-br&mode=weekly&theme=dark&hide_border=false&border_radius=5&date_format=M%20j%5B,%20Y%5D&order=3" height="220" alt="streak graph"  />
 </div>
 
 ###

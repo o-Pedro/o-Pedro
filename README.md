@@ -40,14 +40,10 @@
 
 ###
 
-<h1 align="center">--------------------------------------------------------------------------------------</h1>
+<h1 align="center">يلتزم</h1>
 
 ###
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/o-Pedro/o-Pedro/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/o-Pedro/o-Pedro/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/o-Pedro/o-Pedro/output/pacman-contribution-graph.svg">
-</picture>
+<img src="https://raw.githubusercontent.com/o-Pedro/o-Pedro/output/snake.svg" alt="Snake animation" />
 
 ###

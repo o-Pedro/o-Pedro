@@ -5,7 +5,7 @@
 ###
 
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=o-Pedro.o-Pedro&left_color=gray&left_text=%D8%A8%D9%8A%D8%AF%D8%B1%D9%88"  />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=o-Pedro.o-Pedro&left_color=gray&right_color=slategray&left_text=%D8%A8%D9%8A%D8%AF%D8%B1%D9%88"  />
 </div>
 
 ###
@@ -40,10 +40,12 @@
 
 ###
 
-<h1 align="center">يلتزم</h1>
+<h1 align="center">Commits:</h1>
 
 ###
 
-<img src="https://raw.githubusercontent.com/o-Pedro/o-Pedro/output/snake.svg" alt="Snake animation" />
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=o-Pedro&radius=16&theme=high-contrast&area=true&order=5&custom_title=%D9%8A%D9%84%D8%AA%D8%B2%D9%85&hide_border=false&hide_title=true" height="300" alt="activity-graph graph"  />
+</div>
 
 ###

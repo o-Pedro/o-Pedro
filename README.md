@@ -1,51 +1,31 @@
-<div align="center">
-  <img height="150" src="https://i.pinimg.com/736x/1d/a3/ff/1da3ff2d3270d55b60f670463e7c15d5.jpg"  />
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FFFFFF&height=120&section=header"/>
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FFFFFF&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Pedro+Henrique+Mendes;I+study+systems+development+at+Etec;Be+Welcome!)](https://git.io/typing-svg) 
+
+<div align="center">  
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=o-Pedro&show_icons=true&count_private=true&hide_border=true&title_color=FFFFFF&icon_color=808080&text_color=FFFFFF&bg_color=0d1117" alt="Pedro Henrique Mendes github stats"/> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=o-Pedro&layout=compact&hide_border=true&title_color=FFFFFF&text_color=FFFFFF&bg_color=0d1117" />
 </div>
 
-###
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=o-Pedro&bg_color=000000&color=FFFFFF&line=808080&point=FFFFFF&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=o-Pedro.o-Pedro&left_color=gray&right_color=slategray&left_text=%D8%A8%D9%8A%D8%AF%D8%B1%D9%88"  />
-</div>
+<div align="center">  
+<a href="https://www.instagram.com/pedro.hmz_/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"</a>
+</div> 
+ 
+### Studying in this moment:
+![cSharp](https://img.shields.io/badge/-cSharp-0D1117?style=for-the-badge&logo=&labelColor=0D1117&textColor=0D1117)&nbsp;
+![Java](https://img.shields.io/badge/-Java-0D1117?style=for-the-badge&logo=&labelColor=0D1117)&nbsp;
+![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117&textColor=0D1117)&nbsp;
+![HTML](https://img.shields.io/badge/-HTML-0D1117?style=for-the-badge&logo=html5&logoColor=E34F26&labelColor=#E34F26)&nbsp;
+![CSS](https://img.shields.io/badge/-CSS-0D1117?style=for-the-badge&logo=css&logoColor=663399&labelColor=0D1117)&nbsp;
+![MySQL](https://img.shields.io/badge/-mysql-0D1117?style=for-the-badge&logo=mysql&labelColor=0D1117)&nbsp;
+ 
+### Tools:
+![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-0D1117?style=for-the-badge&logo=visual-studio&logoColor=C8A2C8&labelColor=0D1117)&nbsp;
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-0D1117?style=for-the-badge&logo=visual-studio-code&logoColor=0D1117&labelColor=0D1117)&nbsp;
+![GitHub](https://img.shields.io/badge/-GitHub-0D1117?style=for-the-badge&logo=github&labelColor=0D1117)&nbsp;
+![Windows](https://img.shields.io/badge/-Windows-0D1117?style=for-the-badge&logo=windows&labelColor=0D1117)&nbsp;
+![microsoft-office](https://img.shields.io/badge/-microsoft_office-0D1117?style=for-the-badge&logo=microsoft-office&labelColor=0D1117)&nbsp;
 
-###
-
-<h1 align="center">♣🎱♣</h1>
-
-###
-
-<h3 align="center">Sobre Mim:</h3>
-
-###
-
-<p align="center">- ʙʀ | ꜱᴘ<br>- ᴇᴛᴇᴄ | ᴅꜱ</p>
-
-###
-
-<h3 align="center">Estudando:</h3>
-
-###
-
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=html" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=css" height="40" alt="css logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=java" height="40" alt="java logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=cs" height="40" alt="csharp logo"  />
-</div>
-
-###
-
-<h1 align="center">Commits:</h1>
-
-###
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=o-Pedro&radius=16&theme=high-contrast&area=true&order=5&custom_title=%D9%8A%D9%84%D8%AA%D8%B2%D9%85&hide_border=false&hide_title=false" height="300" alt="activity-graph graph"  />
-</div>
-
-###
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FFFFFF&height=120&section=footer"/>

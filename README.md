@@ -11,6 +11,7 @@
 <img src="https://skillicons.dev/icons?i=html" width="25" height="25"> ![HTML](https://img.shields.io/badge/-HTML-0D1117?style=for-the-badge&logo=&logoColor=E34F26&labelColor=#E34F26)&nbsp;
 <img src="https://skillicons.dev/icons?i=css" width="25" height="25"> ![CSS](https://img.shields.io/badge/-CSS-0D1117?style=for-the-badge&logo=&logoColor=663399&labelColor=0D1117)&nbsp;
 <img src="https://skillicons.dev/icons?i=mysql" width="25" height="25"> ![MySQL](https://img.shields.io/badge/-mysql-0D1117?style=for-the-badge&logo=&labelColor=0D1117)&nbsp;
+<img src="https://skillicons.dev/icons?i=php" width="25" height="25"> ![MySQL](https://img.shields.io/badge/-php-0D1117?style=for-the-badge&logo=&labelColor=0D1117)&nbsp;
  
 ### Tools:
 <img src="https://skillicons.dev/icons?i=visualstudio" width="25" height="25"> ![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-0D1117?style=for-the-badge&logo=visual-studio&logoColor=C8A2C8&labelColor=0D1117)&nbsp;

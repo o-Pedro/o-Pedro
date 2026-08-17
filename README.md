@@ -25,7 +25,7 @@
 <img src="https://skillicons.dev/icons?i=visualstudio" width="25" height="25"> ![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-0D1117?style=for-the-badge&logo=visual-studio&logoColor=C8A2C8&labelColor=0D1117)&nbsp;
 <img src="https://skillicons.dev/icons?i=vscode" width="25" height="25"> ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-0D1117?style=for-the-badge&logo=visual-studio-code&logoColor=0D1117&labelColor=0D1117)&nbsp;
 <img src="https://skillicons.dev/icons?i=github" width="25" height="25"> ![GitHub](https://img.shields.io/badge/-GitHub-0D1117?style=for-the-badge&logo=&labelColor=0D1117)&nbsp;
-<img src="https://skillicons.dev/icons?i=windows" width="25" height="25"> ![Windows](https://img.shields.io/badge/-Windows-0D1117?style=for-the-badge&logo=windows&labelColor=0D1117)&nbsp;
-<img src="https://skillicons.dev/icons?i=office" width="25" height="25"> ![microsoft-office](https://img.shields.io/badge/-microsoft_office-0D1117?style=for-the-badge&logo=microsoft-office&labelColor=0D1117)&nbsp;
+<img src="https://skillicons.dev/icons?i=windows" width="25" height="25"> ![Windows](https://img.shields.io/badge/-Windows-0D1117?style=for-the-badge&logo=&labelColor=0D1117)&nbsp;
+<img src="https://cdn.simpleicons.org/laragon/0E83CD" width="25" height="25"> ![Laragon](https://img.shields.io/badge/-laragon-0D1117?style=for-the-badge&logo=&labelColor=0D1117)&nbsp;
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FFFFFF&height=120&section=footer"/>

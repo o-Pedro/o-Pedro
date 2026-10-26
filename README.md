@@ -2,7 +2,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FFFFFF&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Pedro+Henrique+Mendes;I+study+systems+development+at+Etec;Be+Welcome!)](https://git.io/typing-svg) 
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=o-Pedro&bg_color=000000&color=FFFFFF&line=808080&point=FFFFFF&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Gráfico de atividades do GitHub](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=o-Pedro&theme=github_dark)](https://github.com/o-Pedro)
  
 ### Studying in this moment:
 <img src="https://skillicons.dev/icons?i=cs" width="25" height="25"> ![cSharp](https://img.shields.io/badge/-cSharp-0D1117?style=for-the-badge&logo=cs&labelColor=0D1117&textColor=0D1117)&nbsp; 

@@ -14,11 +14,13 @@
 <img src="https://skillicons.dev/icons?i=php" width="25" height="25"> ![PHP](https://img.shields.io/badge/-php-0D1117?style=for-the-badge&logo=&labelColor=0D1117)&nbsp;
 
 ### Tools:
-<img src="https://skillicons.dev/icons?i=visualstudio" width="25" height="25"> ![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-0D1117?style=for-the-badge&logo=visual-studio&logoColor=C8A2C8&labelColor=0D1117)&nbsp;
-<img src="https://skillicons.dev/icons?i=vscode" width="25" height="25"> ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-0D1117?style=for-the-badge&logo=visual-studio-code&logoColor=38BDF8&labelColor=0D1117)&nbsp;
-<img src="https://skillicons.dev/icons?i=eclipse" width="25" height="25"> ![Eclipse](https://img.shields.io/badge/-Eclipse-0D1117?style=for-the-badge&logo=eclipseide&logoColor=FFFFFF&labelColor=0D1117)&nbsp;
-<img src="https://skillicons.dev/icons?i=github" width="25" height="25"> ![GitHub](https://img.shields.io/badge/-GitHub-0D1117?style=for-the-badge&logo=github&logoColor=FFFFFF&labelColor=0D1117)&nbsp;
-<img src="https://skillicons.dev/icons?i=windows" width="25" height="25"> ![Windows](https://img.shields.io/badge/-Windows-0D1117?style=for-the-badge&logo=windows&logoColor=38BDF8&labelColor=0D1117)&nbsp;
-![Laragon](https://img.shields.io/badge/-Laragon-0D1117?style=for-the-badge&labelColor=0D1117&color=0D1117)
+<p align="left">
+  <img src="https://img.shields.io/badge/Visual%20Studio-0D1117?style=for-the-badge&logo=visualstudio&logoColor=AA7BEA" alt="Visual Studio"/>
+  <img src="https://img.shields.io/badge/VS%20Code-0D1117?style=for-the-badge&logo=visualstudiocode&logoColor=22A7F2" alt="VS Code"/>
+  <img src="https://img.shields.io/badge/Eclipse-0D1117?style=for-the-badge&logo=eclipseide&logoColor=A78BFA" alt="Eclipse"/>
+  <img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=FFFFFF" alt="GitHub"/>
+  <img src="https://img.shields.io/badge/Windows-0D1117?style=for-the-badge&logo=windows11&logoColor=00ADEF" alt="Windows"/>
+  <img src="https://img.shields.io/badge/Laragon-0D1117?style=for-the-badge&logo=laragon&logoColor=0E83CD" alt="Laragon"/>
+</p>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FFFFFF&height=120&section=footer"/>

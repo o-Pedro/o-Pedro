@@ -15,12 +15,12 @@
 
 ### Tools:
 <p align="left">
-  <img src="https://img.shields.io/badge/Visual%20Studio-0D1117?style=for-the-badge&logo=visualstudio&logoColor=AA7BEA" alt="Visual Studio"/>
-  <img src="https://img.shields.io/badge/VS%20Code-0D1117?style=for-the-badge&logo=visualstudiocode&logoColor=22A7F2" alt="VS Code"/>
-  <img src="https://img.shields.io/badge/Eclipse-0D1117?style=for-the-badge&logo=eclipseide&logoColor=A78BFA" alt="Eclipse"/>
-  <img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=FFFFFF" alt="GitHub"/>
-  <img src="https://img.shields.io/badge/Windows-0D1117?style=for-the-badge&logo=windows11&logoColor=00ADEF" alt="Windows"/>
-  <img src="https://img.shields.io/badge/Laragon-0D1117?style=for-the-badge&logo=laragon&logoColor=0E83CD" alt="Laragon"/>
+  <img src="https://skillicons.dev/icons?i=visualstudio" width="25" height="25" alt="Visual Studio"/> <img src="https://img.shields.io/badge/-Visual%20Studio-0D1117?style=for-the-badge" height="25" alt="Visual Studio"/>&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=vscode" width="25" height="25" alt="VS Code"/> <img src="https://img.shields.io/badge/-VS%20Code-0D1117?style=for-the-badge" height="25" alt="VS Code"/>&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=eclipse" width="25" height="25" alt="Eclipse"/> <img src="https://img.shields.io/badge/-Eclipse-0D1117?style=for-the-badge" height="25" alt="Eclipse"/>&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=github" width="25" height="25" alt="GitHub"/> <img src="https://img.shields.io/badge/-GitHub-0D1117?style=for-the-badge" height="25" alt="GitHub"/>&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=windows" width="25" height="25" alt="Windows"/> <img src="https://img.shields.io/badge/-Windows-0D1117?style=for-the-badge" height="25" alt="Windows"/>&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/laragon/0E83CD" width="25" height="25" alt="Laragon"/> <img src="https://img.shields.io/badge/-Laragon-0D1117?style=for-the-badge" height="25" alt="Laragon"/>
 </p>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FFFFFF&height=120&section=footer"/>
